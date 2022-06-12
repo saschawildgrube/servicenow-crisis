@@ -11,7 +11,31 @@
 {
 	var installer = new x_snc_devtools.InstallerAPI(x_snc_devtools.GetAppName('x_snc_crisis'));
 	
-	// Add your code here...
+	installer.RecordInsertOrUpdate(
+		'Add read access for Crisis Viewers on core_company',
+		'sys_security_acl_role',
+		{
+			sys_scope: 'global',
+			sys_security_acl: '8109a169c0a801666217a6825787c7ff',
+			sys_user_role: 'd80cae87dbefc114bcced03cd39619b0'
+		},
+		{
+			sys_user_role: 'd80cae87dbefc114bcced03cd39619b0'
+		},
+		{});
+	
+	installer.RecordInsertOrUpdate(
+		'Add write access for Crisis Managers on core_company',
+		'sys_security_acl_role',
+		{
+			sys_scope: 'global',
+			sys_security_acl: '8bdc9b2f0a0a0b440190caa9004a8810',
+			sys_user_role: 'a62cae87dbefc114bcced03cd39619ba'
+		},
+		{
+			sys_user_role: 'a62cae87dbefc114bcced03cd39619ba'
+		},
+		{});	
 	
 	return installer.Finish();
 }
@@ -20,13 +44,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>402b2287dbefc114bcced03cd396194c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>AppInstall</sys_name>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_script_include_402b2287dbefc114bcced03cd396194c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-23 15:32:16</sys_updated_on>
+        <sys_updated_on>2022-06-12 20:16:33</sys_updated_on>
     </sys_script_include>
 </record_update>

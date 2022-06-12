@@ -4,69 +4,97 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-12 20:23:15</sys_created_on>
-            <sys_id>618de6eddb8495109232dad1f3961921</sys_id>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>5d1bbaa9dbc495109232dad1f39619a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-12 20:23:15</sys_updated_on>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_crisis_tags</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>dd1bbaa9dbc495109232dad1f39619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-12 20:23:15</sys_created_on>
-            <sys_id>e18de6eddb8495109232dad1f3961921</sys_id>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>511bbaa9dbc495109232dad1f39619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-12 20:23:15</sys_updated_on>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>x_snc_crisis_tags</element>
-            <position>2</position>
+            <element>website</element>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-12 20:23:15</sys_created_on>
-            <sys_id>658de6eddb8495109232dad1f3961921</sys_id>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>d11bbaa9dbc495109232dad1f39619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-12 20:23:15</sys_updated_on>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>551bbaa9dbc495109232dad1f39619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>3</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-12 20:23:15</sys_created_on>
-            <sys_id>e58de6eddb8495109232dad1f3961921</sys_id>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>d51bbaa9dbc495109232dad1f39619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-12 20:23:15</sys_updated_on>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>notes</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-12 20:23:15</sys_created_on>
-            <sys_id>698de6eddb8495109232dad1f3961921</sys_id>
+            <sys_created_on>2022-06-12 21:22:29</sys_created_on>
+            <sys_id>591bbaa9dbc495109232dad1f39619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a48c2aaddb8495109232dad1f3961977</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-12 20:23:15</sys_updated_on>
+            <sys_updated_on>2022-06-12 21:22:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

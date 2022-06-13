@@ -43,4 +43,5 @@
         <value>d659aacfdbafc114bcced03cd396198b</value>
         <variable display_value="Application">8a0aaa9f1bac2090a89720a8ec4bcbc8</variable>
     </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_786a921f1b6c2090a89720a8ec4bcbc9^id=5e1d668bdbefc114bcced03cd39619c8"/>
 </record_update>

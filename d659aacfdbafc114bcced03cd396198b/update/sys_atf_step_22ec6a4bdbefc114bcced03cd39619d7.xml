@@ -57,4 +57,5 @@
         <value>d689f6901bd38450a89720a8ec4bcbfd</value>
         <variable display_value="Application">7cf8ac8adb3da490ba15a353059619f5</variable>
     </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_c3f56886db3da490ba15a353059619ff^id=22ec6a4bdbefc114bcced03cd39619d7"/>
 </record_update>

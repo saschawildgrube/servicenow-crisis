@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Crisis" max_length="40" name="x_snc_crisis_crisis" sizeclass="1" type="collection">
+    <element label="Crisis" max_length="40" name="x_snc_crisis_crisis" type="collection">
         <element display="true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
     </element>
 </database>

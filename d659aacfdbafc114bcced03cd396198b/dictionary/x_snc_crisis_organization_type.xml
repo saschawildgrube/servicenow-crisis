@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Organization Type" max_length="40" name="x_snc_crisis_organization_type" sizeclass="1" type="collection">
+        <element attributes="no_truncate=true" label="Default Capabilities" max_length="4000" name="default_capabilities" reference="x_snc_crisis_organization_capability" type="glide_list"/>
+        <element label="ID" mandatory="true" max_length="20" name="id" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="translated_text"/>
+    </element>
+</database>

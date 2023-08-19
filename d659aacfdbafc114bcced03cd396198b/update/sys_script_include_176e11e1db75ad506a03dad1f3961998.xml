@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_crisis.DevToolsRenderDebugDump</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>false</client_callable>
+        <description>The function DevToolsRenderDebugDump is called by the DevTools extension point instance class and returns additional debug information provided by the application.</description>
+        <name>DevToolsRenderDebugDump</name>
+        <script><![CDATA[function DevToolsRenderDebugDump()
+{
+	return '';
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-25 10:38:41</sys_created_on>
+        <sys_id>176e11e1db75ad506a03dad1f3961998</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DevToolsRenderDebugDump</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_script_include_176e11e1db75ad506a03dad1f3961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-25 11:49:02</sys_updated_on>
+    </sys_script_include>
+</record_update>

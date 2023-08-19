@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" audit="true" extends="task" label="Task" max_length="40" name="x_snc_crisis_task" sizeclass="1" type="collection">
+        <element label="Crisis" mandatory="true" max_length="32" name="crisis" reference="x_snc_crisis_crisis" type="reference"/>
+        <element label="Tags" max_length="40" name="tags" read_only="true" type="related_tags"/>
+    </element>
+</database>

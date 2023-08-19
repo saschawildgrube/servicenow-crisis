@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Organization Capability" max_length="40" name="x_snc_crisis_organization_capability" sizeclass="1" type="collection">
+        <element label="id" mandatory="true" max_length="20" name="id" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="80" name="name" type="translated_text"/>
+    </element>
+</database>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_crisis.Log</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>false</client_callable>
+        <description>Produces a log output in the application log.</description>
+        <name>Log</name>
+        <script><![CDATA[function Log(strText)
+{
+	x_snc_devtools.Log('Crisis: '+gs.getUserName()+': '+strText);
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 15:32:15</sys_created_on>
+        <sys_id>882b2287dbefc114bcced03cd396191a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_script_include_882b2287dbefc114bcced03cd396191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-25 10:10:25</sys_updated_on>
+    </sys_script_include>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>84975bb2db8d919c4d2bac44d4961989</instance_id>
+        <instance_name>wildgrubetokyo</instance_name>
+        <name>sys_script_include_882b2287dbefc114bcced03cd396191a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;
+    &lt;sys_script_include action="INSERT_OR_UPDATE"&gt;
+        &lt;access&gt;public&lt;/access&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;api_name&gt;x_snc_crisis.Log&lt;/api_name&gt;
+        &lt;caller_access&gt;1&lt;/caller_access&gt;
+        &lt;client_callable&gt;false&lt;/client_callable&gt;
+        &lt;description&gt;Produces a log output in the application log.&lt;/description&gt;
+        &lt;name&gt;Log&lt;/name&gt;
+        &lt;script&gt;&lt;![CDATA[function Log(strText)
+{
+	x_snc_devtools.Log('Crisis: '+gs.getUserName()+': '+strText);
+}]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-05-23 15:32:15&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;882b2287dbefc114bcced03cd396191a&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Log&lt;/sys_name&gt;
+        &lt;sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis"&gt;d659aacfdbafc114bcced03cd396198b&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Crisis WORK IN PROGRESS"&gt;d659aacfdbafc114bcced03cd396198b&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_script_include_882b2287dbefc114bcced03cd396191a&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2023-03-25 10:10:25&lt;/sys_updated_on&gt;
+    &lt;/sys_script_include&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>159713009</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>acbf864f972ee510a6a07767f053afca</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-06 12:52:05</sys_created_on>
+        <sys_id>3ebf4a4f972ee510a6a07767f053af37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187f11e92ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-06 12:52:05</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>7abf4a4f692ee51097a05dd9f1261137</update_guid>
+        <update_guid_history>7abf4a4f692ee51097a05dd9f1261137:0,5848ae753304619032175ab20b5725a9:-386212556</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 12:06:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>0a3ca41f4c9c4bf2849c02173f53a644</sys_id>
+        <sys_metadata>882b2287dbefc114bcced03cd396191a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_script_include_882b2287dbefc114bcced03cd396191a</sys_update_name>
+        <sys_update_version display_value="sys_script_include_882b2287dbefc114bcced03cd396191a">3ebf4a4f972ee510a6a07767f053af37</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 12:06:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-06 20:48:37</sys_created_on>
+        <sys_id>050e31e41b5ca5905b76777d8b4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user.snc_internal</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_security_acl display_value="sys_user">3aed35a41b5ca5905b76777d8b4bcbb8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_050e31e41b5ca5905b76777d8b4bcb7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-06 20:48:37</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>8d0efd601b5ca5905b76777d8b4bcba0</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>01bfa2ffdb5ecd104d2bac44d496195a</instance_id>
+        <instance_name>wildgrubetestsandiego</instance_name>
+        <name>sys_security_acl_role_050e31e41b5ca5905b76777d8b4bcb7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-06 20:48:37</sys_created_on><sys_id>050e31e41b5ca5905b76777d8b4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user.snc_internal</sys_name><sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package><sys_policy/><sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope><sys_security_acl display_value="sys_user">3aed35a41b5ca5905b76777d8b4bcbb8</sys_security_acl><sys_update_name>sys_security_acl_role_050e31e41b5ca5905b76777d8b4bcb7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-06 20:48:37</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id>8d0efd601b5ca5905b76777d8b4bcba0</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>17911555</payload_hash>
+        <record_name>sys_user.snc_internal</record_name>
+        <reverted_from/>
+        <source>50ec1903db2311106a03dad1f3961944</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-12-08 06:01:33</sys_created_on>
+        <sys_id>9c2ef1e41b5ca5905b76777d8b4bcb9f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>184f0532a480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Roles</type>
+        <update_guid>5c2ef1e4fe5ca5903cbba26e306d919f</update_guid>
+        <update_guid_history>5c2ef1e4fe5ca5903cbba26e306d919f:17911555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sys_user.snc_internal">182ef1e41b5ca5905b76777d8b4bcba1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-06 20:49:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>61e602b3fda3483198295e2f04411c09</sys_id>
+        <sys_metadata>050e31e41b5ca5905b76777d8b4bcb7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user.snc_internal</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent display_value="sys_user">3aed35a41b5ca5905b76777d8b4bcbb8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_050e31e41b5ca5905b76777d8b4bcb7a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_050e31e41b5ca5905b76777d8b4bcb7a">9c2ef1e41b5ca5905b76777d8b4bcb9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-06 20:49:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

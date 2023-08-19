@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_crisis_organization_capability</description>
+        <name>x_snc_crisis_organization_capability</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-09 18:39:04</sys_created_on>
+        <sys_id>61e44d7b97b72150a6a07767f053af80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_organization_capability</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_security_acl_61e44d7b97b72150a6a07767f053af80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-09 18:39:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>84975bb2db8d919c4d2bac44d4961989</instance_id>
+        <instance_name>wildgrubetokyo</instance_name>
+        <name>sys_security_acl_61e44d7b97b72150a6a07767f053af80</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_snc_crisis_organization_capability</description><name>x_snc_crisis_organization_capability</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-09 18:39:04</sys_created_on><sys_id>61e44d7b97b72150a6a07767f053af80</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_crisis_organization_capability</sys_name><sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package><sys_policy/><sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope><sys_update_name>sys_security_acl_61e44d7b97b72150a6a07767f053af80</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-09 18:39:04</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1924177362</payload_hash>
+        <record_name>x_snc_crisis_organization_capability</record_name>
+        <reverted_from/>
+        <source>9858a6751b046190cd6153d16b4bcbb4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-09 18:39:04</sys_created_on>
+        <sys_id>a1e44d7b97b72150a6a07767f053af82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1893bf340320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-09 18:39:04</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>e9e44d7bd1b721501a7a24f437471d81</update_guid>
+        <update_guid_history>e9e44d7bd1b721501a7a24f437471d81:1924177362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 11:22:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>176b4325016d4ba2a243b11818ec9f09</sys_id>
+        <sys_metadata>61e44d7b97b72150a6a07767f053af80</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_organization_capability</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent display_value="x_snc_crisis_organization_capability">9138aa751b046190cd6153d16b4bcb12</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_61e44d7b97b72150a6a07767f053af80</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_61e44d7b97b72150a6a07767f053af80">a1e44d7b97b72150a6a07767f053af82</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 11:22:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

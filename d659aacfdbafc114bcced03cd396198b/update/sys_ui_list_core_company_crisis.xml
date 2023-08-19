@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="core_company" version="2" view="crisis">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ad45e325dbfdad506a03dad1f3961961</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-25 20:27:51</sys_created_on>
+            <sys_id>6945e325dbfdad506a03dad1f3961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-25 20:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_crisis_organization_type</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ad45e325dbfdad506a03dad1f3961961</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-25 20:27:51</sys_created_on>
+            <sys_id>e945e325dbfdad506a03dad1f3961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-25 20:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_crisis_organization_classification</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ad45e325dbfdad506a03dad1f3961961</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-25 20:27:51</sys_created_on>
+            <sys_id>6d45e325dbfdad506a03dad1f3961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-25 20:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ad45e325dbfdad506a03dad1f3961961</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-25 20:27:51</sys_created_on>
+            <sys_id>ed45e325dbfdad506a03dad1f3961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-25 20:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ad45e325dbfdad506a03dad1f3961961</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-25 20:27:51</sys_created_on>
+            <sys_id>6145e325dbfdad506a03dad1f3961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-25 20:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>core_company</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-25 20:27:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad45e325dbfdad506a03dad1f3961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>core_company</sys_name>
+            <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+            <sys_update_name>sys_ui_list_core_company_crisis</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-25 20:27:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Crisis" name="crisis">ffd662a9db8495109232dad1f3961948</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

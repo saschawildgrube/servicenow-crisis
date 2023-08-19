@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</contains>
+        <role display_value="x_snc_crisis.manager" name="x_snc_crisis.manager">a62cae87dbefc114bcced03cd39619ba</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 21:37:55</sys_created_on>
+        <sys_id>d59c74861b042d505b76777d8b4bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil.x_snc_crisis.manager</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_user_role_contains_d59c74861b042d505b76777d8b4bcb98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 21:37:55</sys_updated_on>
+    </sys_user_role_contains>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>84975bb2db8d919c4d2bac44d4961989</instance_id>
+        <instance_name>wildgrubetokyo</instance_name>
+        <name>sys_user_role_contains_d59c74861b042d505b76777d8b4bcb98</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</contains>
+        <role display_value="x_snc_crisis.manager" name="x_snc_crisis.manager">a62cae87dbefc114bcced03cd39619ba</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 21:37:55</sys_created_on>
+        <sys_id>d59c74861b042d505b76777d8b4bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil.x_snc_crisis.manager</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_user_role_contains_d59c74861b042d505b76777d8b4bcb98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 21:37:55</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>]]></payload>
+        <payload_hash>1684169677</payload_hash>
+        <record_name>itil.x_snc_crisis.manager</record_name>
+        <reverted_from/>
+        <source>e6ec748a1b886190cd6153d16b4bcbf8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 21:39:25</sys_created_on>
+        <sys_id>97ecf48a1b886190cd6153d16b4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1855fd35e730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 21:39:25</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>57ecf48a2e88619039ccd6c4c1db273a</update_guid>
+        <update_guid_history>57ecf48a2e88619039ccd6c4c1db273a:1684169677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 11:53:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>a3adb47853af4b9db251b2cf1c3b1501</sys_id>
+        <sys_metadata>d59c74861b042d505b76777d8b4bcb98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil.x_snc_crisis.manager</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_d59c74861b042d505b76777d8b4bcb98</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_d59c74861b042d505b76777d8b4bcb98">97ecf48a1b886190cd6153d16b4bcb3a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 11:53:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

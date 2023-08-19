@@ -14,13 +14,13 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Crisis WORK IN PROGRESS</name>
+        <name>Crisis</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_crisis</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Organize crisis response</short_description>
+        <short_description>The Crisis app helps to organize the response to a crisis.</short_description>
         <source>x_snc_crisis</source>
         <store_correlation_id/>
         <store_url/>
@@ -29,9 +29,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:24:29</sys_created_on>
         <sys_id>d659aacfdbafc114bcced03cd396198b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-25 10:15:32</sys_updated_on>
+        <sys_updated_on>2023-08-19 12:05:25</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -46,4 +46,5 @@
         <x_snc_wildgrubelab_test/>
         <x_snc_wildgrubelab_test2/>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=d659aacfdbafc114bcced03cd396198b"/>
 </record_update>

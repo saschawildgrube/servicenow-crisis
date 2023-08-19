@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Run Server Side Validation Script</description>
+        <display_name>Run Server Side Script</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Run Server Side Script">41de4a935332120028bc29cac2dc349a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 12:19:50</sys_created_on>
+        <sys_id>8547fab897387150a6a07767f053af3c</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Run Server Side Script</sys_name>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_atf_step_8547fab897387150a6a07767f053af3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 12:29:17</sys_updated_on>
+        <table/>
+        <test display_value="Crisis - GetClassificationInfoFromRecord">fd373ab897387150a6a07767f053af50</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8547fab897387150a6a07767f053af3c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8547fab897387150a6a07767f053af3c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 12:19:50</sys_created_on>
+        <sys_id>0e47fab897387150a6a07767f053afee</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 12:29:17</sys_updated_on>
+        <value>(function(outputs, steps, stepResult, assertEqual)&#13;
+{&#13;
+	var test = new x_snc_devtools.TestAPI(outputs, steps, stepResult, assertEqual);&#13;
+	&#13;
+	test.SetResult(true);&#13;
+&#13;
+	function TestCase_GetClassificationInfoFromRecord(grRecord, vExpected)&#13;
+	{&#13;
+		function TestCase_GetClassificationInfoFromRecord_CheckResult(vInput,vExpected,vResult)&#13;
+		{&#13;
+			if (x_snc_devtools.IsObject(vResult) == false)&#13;
+			{&#13;
+				return false;&#13;
+			}&#13;
+			if (x_snc_devtools.GetValue(vResult,'color') != vExpected)&#13;
+			{&#13;
+				return false;&#13;
+			}&#13;
+			return true;&#13;
+		}&#13;
+&#13;
+		test.TestCase(&#13;
+			'Function GetClassificationInfoFromRecord()',&#13;
+			GetClassificationInfoFromRecord,&#13;
+			{&#13;
+				'Record': grRecord&#13;
+			},&#13;
+			vExpected,&#13;
+			TestCase_GetClassificationInfoFromRecord_CheckResult);&#13;
+	}&#13;
+&#13;
+	TestCase_GetClassificationInfoFromRecord(null,'red');	&#13;
+	&#13;
+	&#13;
+	var grCompany = new GlideRecord('core_company');&#13;
+	grCompany.initialize();&#13;
+	grCompany.name = 'Test1';&#13;
+	var strCompanySysid = grCompany.insert();&#13;
+	&#13;
+	TestCase_GetClassificationInfoFromRecord(grCompany,'red');&#13;
+	&#13;
+	var grClassification = new GlideRecord('x_snc_crisis_organization_classification');&#13;
+	grClassification.initialize();&#13;
+	grClassification.name = 'TEST_Blue';&#13;
+	grClassification.color = 'blue';&#13;
+	var strClassificationSysid = grClassification.insert();&#13;
+	test.Log(x_snc_devtools.RenderValue(grClassification));&#13;
+	&#13;
+	x_snc_devtools.RecordSetValue('core_company',strCompanySysid,'x_snc_crisis_organization_classification',strClassificationSysid);&#13;
+	TestCase_GetClassificationInfoFromRecord(x_snc_devtools.GetRecord('core_company',strCompanySysid),'blue');&#13;
+	&#13;
+	&#13;
+	return test.GetResult();&#13;
+	&#13;
+})(outputs, steps, stepResult, assertEqual);</value>
+        <variable display_value="Test script">989d9e235324220002c6435723dc3484</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8547fab897387150a6a07767f053af3c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 12:19:50</sys_created_on>
+        <sys_id>4647fab897387150a6a07767f053afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 12:19:50</sys_updated_on>
+        <value>3.1</value>
+        <variable display_value="Jasmine version">42f2564b73031300440211d8faf6a777</variable>
+    </sys_variable_value>
+</record_update>

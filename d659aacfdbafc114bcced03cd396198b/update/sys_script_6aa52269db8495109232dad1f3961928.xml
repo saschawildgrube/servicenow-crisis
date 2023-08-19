@@ -33,7 +33,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	var RecordSetValue = x_snc_devtools.RecordSetValue;
-	RecordSetValue('label',current.label,'viewable_by','everyone');
+	RecordSetValue('label',current.label,'viewable_by','everyone',true);
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6aa52269db8495109232dad1f3961928</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Label Entry - Make tags visible to all</sys_name>
         <sys_overrides/>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_script_6aa52269db8495109232dad1f3961928</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-25 11:50:09</sys_updated_on>
+        <sys_updated_on>2023-08-19 12:01:21</sys_updated_on>
         <template/>
         <when>before</when>
         <x_snc_datasilos_created>false</x_snc_datasilos_created>

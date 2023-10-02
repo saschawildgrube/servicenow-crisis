@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_crisis_referred_by" label="Referred by" language="en" table="core_company">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_crisis_referred_by</element>
+            <help/>
+            <hint/>
+            <label>Referred by</label>
+            <language>en</language>
+            <name>core_company</name>
+            <plural>Referred by</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-02 07:18:55</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Referred by</sys_name>
+            <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+            <sys_update_name>sys_documentation_core_company_x_snc_crisis_referred_by_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-02 07:18:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

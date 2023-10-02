@@ -21,8 +21,10 @@
 	]</g2:no_escape>	
 	
 	<h2>Features</h2> 
-	<p>The Crisis app supports Crisis tasks - which can be any task related to a Crisis.</p>
-	<p>Organizations (i.e. companies) can be classified by user-defined classifications. The organization's classification is displayed when navigating to records related to the organization.</p>
+	<p>The Crisis app supports Crisis tasks - which can be any task related to a Crisis response.</p>
+	<p>Organizations (i.e. companies) can be categorized by an "Organization Type" (e.g. "NGO", "Local Authority", "Logistics Provider").</p>
+	<p>Organizations (i.e. companies) can be classified by user-defined "Organization Classifications". The organization's classification is displayed when navigating to records related to the organization.</p>
+	<p>For each organization users can documented who referred the organization - to further support keeping track on the trustworthyness of organizations.</p>
 	<p>Organizations can be associated to user-defined capabilities - like "Provide medical supplies" or "Care for refugees".</p>
 	
 
@@ -33,7 +35,7 @@
 	<ul>
 		<g2:no_escape>$[
 			docapi.RenderSystemRequirements(
-				'Tokyo,Utah',
+				'Utah',
 				true,
 				AppGetDependencies());
 		]</g2:no_escape>	
@@ -98,9 +100,16 @@
 	<!--
 	<h3>1.X.0 - 2023-TODO</h3>
 	<ol>
-		<li>TODO: document changes here</li>
+<li>Fully tested with Vancouver.</li>		
+<li>TODO: document changes here</li>
 	</ol>
 -->
+	
+	<h3>1.2.0 - 2023-10-02</h3>
+	<ol>
+		<li>Tokyo is no longer actively supported.</li>
+		<li>Added field "Referred By" and "Referred By User" to the core_company table to document who referred an organization.</li>
+	</ol>	
 	
 	<h3>1.1.0 - 2023-09-07</h3>
 	<ol>
@@ -119,13 +128,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>1c2b2287dbefc114bcced03cd3961968</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_name>manual</sys_name>
         <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_ui_page_1c2b2287dbefc114bcced03cd3961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-07 21:35:28</sys_updated_on>
+        <sys_updated_on>2023-10-02 09:23:19</sys_updated_on>
     </sys_ui_page>
 </record_update>

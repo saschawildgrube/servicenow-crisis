@@ -104,7 +104,7 @@
 	
 	<h3>1.2.0 - 2023-TODO</h3>
 	<ol>
-		<li>TODO: document changes here</li>
+		<li>Added field "Referred By" and "Referred By User" to the core_company table to document who referred an organization.</li>
 	</ol>	
 	
 	<h3>1.1.0 - 2023-09-07</h3>
@@ -124,13 +124,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>1c2b2287dbefc114bcced03cd3961968</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>manual</sys_name>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_ui_page_1c2b2287dbefc114bcced03cd3961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-07 21:41:46</sys_updated_on>
+        <sys_updated_on>2023-10-02 07:45:24</sys_updated_on>
     </sys_ui_page>
 </record_update>

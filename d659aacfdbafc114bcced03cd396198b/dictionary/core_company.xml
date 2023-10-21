@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="all_tables.text_index_translations=true,global_search_config_handler=CompanySearchConfig,hasLabels=true" create_roles="user_admin" db_object_id="ac37e920a920211076daa554cb57d9b8" label="Company" max_length="40" name="core_company" text_index="true" type="collection">
+        <element label="Country" max_length="32" name="x_snc_crisis_country" reference="core_country" type="reference"/>
         <element label="Organization Capabilities" max_length="4000" name="x_snc_crisis_organization_capabilities" reference="x_snc_crisis_organization_capability" type="glide_list"/>
         <element label="Organization Classification" max_length="32" name="x_snc_crisis_organization_classification" reference="x_snc_crisis_organization_classification" type="reference"/>
         <element label="Organization Type" max_length="32" name="x_snc_crisis_organization_type" reference="x_snc_crisis_organization_type" type="reference"/>
@@ -12,6 +13,9 @@
             <element name="x_snc_crisis_organization_type"/>
         </index>
         <index name="index2">
+            <element name="x_snc_crisis_country"/>
+        </index>
+        <index name="index3">
             <element name="x_snc_crisis_referred_by_user"/>
         </index>
     </element>

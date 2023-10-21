@@ -3,107 +3,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:28</sys_created_on>
-            <sys_id>480b14511b0e71506c17fdd49b4bcbeb</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>a892e8191b0e71506c17fdd49b4bcb7e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:28</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_crisis_organization_type</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:29</sys_created_on>
-            <sys_id>000b14511b0e71506c17fdd49b4bcbec</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>2c92e8191b0e71506c17fdd49b4bcb7e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:29</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_crisis_organization_classification</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:29</sys_created_on>
-            <sys_id>800b14511b0e71506c17fdd49b4bcbec</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>ac92e8191b0e71506c17fdd49b4bcb7e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:29</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>city</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <element>x_snc_crisis_country</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:29</sys_created_on>
-            <sys_id>040b14511b0e71506c17fdd49b4bcbec</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>2092e8191b0e71506c17fdd49b4bcb7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:29</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>phone</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <element>city</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:29</sys_created_on>
-            <sys_id>840b14511b0e71506c17fdd49b4bcbec</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>a092e8191b0e71506c17fdd49b4bcb7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:29</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_snc_crisis_referred_by</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <element>phone</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:29</sys_created_on>
-            <sys_id>080b14511b0e71506c17fdd49b4bcbec</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>2492e8191b0e71506c17fdd49b4bcb7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:29</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_crisis_registration_code</element>
-            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">400b14511b0e71506c17fdd49b4bcbea</list_id>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:29</sys_created_on>
-            <sys_id>880b14511b0e71506c17fdd49b4bcbec</sys_id>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>a492e8191b0e71506c17fdd49b4bcb7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:29</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_crisis_referred_by</element>
+            <list_id display_value="core_company" element="NULL" name="core_company" parent="NULL" relationship="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">ec92e8191b0e71506c17fdd49b4bcb7d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
+            <sys_id>2892e8191b0e71506c17fdd49b4bcb7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,10 +132,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-21 17:32:28</sys_created_on>
+            <sys_created_on>2023-10-21 18:05:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>400b14511b0e71506c17fdd49b4bcbea</sys_id>
+            <sys_id>ec92e8191b0e71506c17fdd49b4bcb7d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>core_company</sys_name>
             <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
@@ -128,7 +143,7 @@
             <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
             <sys_update_name>sys_ui_list_core_company_crisis</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-21 17:32:28</sys_updated_on>
+            <sys_updated_on>2023-10-21 18:05:33</sys_updated_on>
             <sys_user/>
             <view display_value="Crisis" name="crisis">ffd662a9db8495109232dad1f3961948</view>
             <view_name/>

@@ -108,6 +108,7 @@
 	<ol>
 		<li>Fully tested with Vancouver.</li>
 		<li>Added fields "Registration Code" and "VAT Registration Number" to the core_company table and extended form and list views.</li> 
+		<li>An organization's classification is now also displayed on the location form.</li>
 	</ol>	
 	
 	<h3>1.2.0 - 2023-10-02</h3>
@@ -133,13 +134,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>1c2b2287dbefc114bcced03cd3961968</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>manual</sys_name>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_ui_page_1c2b2287dbefc114bcced03cd3961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-21 17:37:53</sys_updated_on>
+        <sys_updated_on>2023-10-21 17:42:25</sys_updated_on>
     </sys_ui_page>
 </record_update>

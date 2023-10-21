@@ -4,13 +4,13 @@
             <element>company</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>49f668301bc0e5505b76777d8b4bcba4</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>1b1e14151b0e71506c17fdd49b4bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>01f668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>9f1e14151b0e71506c17fdd49b4bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>street</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>81f668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>131e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>city</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>05f668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>931e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>state</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>85f668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>171e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,27 +74,27 @@
             <element>zip</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>09f668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>971e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>country</element>
+            <element>x_snc_crisis_country</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>89f668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>1b1e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>0df668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>9b1e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>phone</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>8df668301bc0e5505b76777d8b4bcba5</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>1f1e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>time_zone</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>01f668301bc0e5505b76777d8b4bcba6</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>9f1e14151b0e71506c17fdd49b4bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>latitude</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>81f668301bc0e5505b76777d8b4bcba6</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>131e14151b0e71506c17fdd49b4bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>longitude</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>05f668301bc0e5505b76777d8b4bcba6</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>931e14151b0e71506c17fdd49b4bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>.end_split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 22:51:00</sys_created_on>
-            <sys_id>85f668301bc0e5505b76777d8b4bcba6</sys_id>
+            <sys_created_on>2023-10-21 17:46:04</sys_created_on>
+            <sys_id>171e14151b0e71506c17fdd49b4bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">fabdaaeddb8495109232dad1f396197a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 22:51:00</sys_updated_on>
+            <sys_updated_on>2023-10-21 17:46:04</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

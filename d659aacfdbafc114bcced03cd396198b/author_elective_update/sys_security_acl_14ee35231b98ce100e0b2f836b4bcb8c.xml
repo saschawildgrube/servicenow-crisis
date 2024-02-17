@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_crisis_m2m_user_company.description</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-17 20:56:48</sys_created_on>
+        <sys_id>14ee35231b98ce100e0b2f836b4bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_m2m_user_company.description</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-17 20:56:48</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>25322e70dbb92590c1a4c5970596192e</instance_id>
+        <instance_name>wildgrubeutah</instance_name>
+        <name>sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_crisis_m2m_user_company.description</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-17 20:56:48</sys_created_on><sys_id>14ee35231b98ce100e0b2f836b4bcb8c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_crisis_m2m_user_company.description</sys_name><sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package><sys_policy/><sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope><sys_update_name>sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-17 20:56:48</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-261822737</payload_hash>
+        <record_name>x_snc_crisis_m2m_user_company.description</record_name>
+        <reverted_from/>
+        <source>52bf72f41b78fd100e0b2f836b4bcbf3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-17 20:56:48</sys_created_on>
+        <sys_id>d9fe75231b98ce100e0b2f836b4bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db8db7b980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-17 20:56:48</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>ddfe75236598ce10a0fedd095c3b7841</update_guid>
+        <update_guid_history>ddfe75236598ce10a0fedd095c3b7841:-261822737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-17 21:05:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>87c0c613421f41e18283031e88a304a9</sys_id>
+        <sys_metadata>14ee35231b98ce100e0b2f836b4bcb8c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_m2m_user_company.description</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent display_value="Description">fe3c3d6f1b58ce100e0b2f836b4bcb35</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c">d9fe75231b98ce100e0b2f836b4bcb42</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-17 21:05:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

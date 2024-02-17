@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7bbabdeb1b58ce100e0b2f836b4bcb90" label="Agents" max_length="40" name="x_snc_crisis_m2m_user_company" type="collection">
+        <element attributes="encode_utf8=false" label="Organizations" max_length="32" name="company" reference="core_company" type="reference"/>
+        <element label="Description" max_length="2000" name="description" type="string"/>
+        <element attributes="encode_utf8=false" label="Users" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="company"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

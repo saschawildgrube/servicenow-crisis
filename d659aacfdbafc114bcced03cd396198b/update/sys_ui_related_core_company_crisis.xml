@@ -2,31 +2,45 @@
     <sys_ui_related sys_domain="global" table="core_company" version="2" view="crisis">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Company - Crisis" name="core_company" related_list="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a0c2d8b81b40e5505b76777d8b4bcbcc</list_id>
+            <list_id display_value="Company - Crisis" name="core_company" related_list="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">351c396f1b58ce100e0b2f836b4bcb68</list_id>
             <order_by/>
             <position>0</position>
             <related_list>sys_user.company</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 21:22:47</sys_created_on>
-            <sys_id>2cc2d8b81b40e5505b76777d8b4bcbcd</sys_id>
+            <sys_created_on>2024-02-17 20:44:16</sys_created_on>
+            <sys_id>311c396f1b58ce100e0b2f836b4bcb69</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 21:22:47</sys_updated_on>
+            <sys_updated_on>2024-02-17 20:44:16</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Company - Crisis" name="core_company" related_list="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">a0c2d8b81b40e5505b76777d8b4bcbcc</list_id>
+            <list_id display_value="Company - Crisis" name="core_company" related_list="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">351c396f1b58ce100e0b2f836b4bcb68</list_id>
             <order_by/>
             <position>1</position>
             <related_list>cmn_location.company</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 21:22:47</sys_created_on>
-            <sys_id>a4c2d8b81b40e5505b76777d8b4bcbce</sys_id>
+            <sys_created_on>2024-02-17 20:44:16</sys_created_on>
+            <sys_id>351c396f1b58ce100e0b2f836b4bcb69</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 21:22:47</sys_updated_on>
+            <sys_updated_on>2024-02-17 20:44:16</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Company - Crisis" name="core_company" related_list="NULL" sys_domain="global" view="ffd662a9db8495109232dad1f3961948">351c396f1b58ce100e0b2f836b4bcb68</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_snc_crisis_m2m_user_company.company</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-17 20:44:16</sys_created_on>
+            <sys_id>391c396f1b58ce100e0b2f836b4bcb69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-17 20:44:16</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Company - Crisis</calculated_name>
@@ -37,18 +51,18 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-25 21:22:47</sys_created_on>
+            <sys_created_on>2024-02-17 20:44:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a0c2d8b81b40e5505b76777d8b4bcbcc</sys_id>
+            <sys_id>351c396f1b58ce100e0b2f836b4bcb68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Company - Crisis</sys_name>
             <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
             <sys_policy/>
             <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
-            <sys_update_name>sys_ui_related_core_company_Crisis</sys_update_name>
+            <sys_update_name>sys_ui_related_core_company_crisis</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-25 21:22:47</sys_updated_on>
+            <sys_updated_on>2024-02-17 20:44:16</sys_updated_on>
             <sys_user/>
             <view display_value="Crisis" name="crisis">ffd662a9db8495109232dad1f3961948</view>
             <view_name/>

@@ -5,7 +5,7 @@
         <api_name>x_snc_crisis.AppInstall</api_name>
         <caller_access>1</caller_access>
         <client_callable>false</client_callable>
-        <description>This script installs Crisis.</description>
+        <description>This script installs the Crisis app.</description>
         <name>AppInstall</name>
         <script><![CDATA[function AppInstall()
 {
@@ -18,13 +18,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>402b2287dbefc114bcced03cd396194c</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>AppInstall</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_script_include_402b2287dbefc114bcced03cd396194c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-24 02:16:12</sys_updated_on>
+        <sys_updated_on>2024-02-25 10:02:28</sys_updated_on>
     </sys_script_include>
 </record_update>

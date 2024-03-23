@@ -9,7 +9,7 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Task" name="Task">40347eb71b1201103297fd9b8b4bcb9c</question>
+        <question display_value="Task" name="Task">d07cb819b9103110d0adbb64e3a1e910</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
@@ -18,9 +18,9 @@
         <sys_id>5b8cfce1db4095109232dad1f39619f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Task</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_wizard_answer_5b8cfce1db4095109232dad1f39619f8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-12 12:09:39</sys_updated_on>

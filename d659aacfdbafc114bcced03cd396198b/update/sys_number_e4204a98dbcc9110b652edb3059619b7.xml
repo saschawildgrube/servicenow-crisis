@@ -10,9 +10,9 @@
         <sys_id>e4204a98dbcc9110b652edb3059619b7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CT</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_number_e4204a98dbcc9110b652edb3059619b7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-08 19:52:31</sys_updated_on>

@@ -5,18 +5,20 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on x_snc_crisis_organization_capability</description>
+        <local_or_existing/>
         <name>x_snc_crisis_organization_capability</name>
         <operation display_value="delete">delete</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-25 09:47:14</sys_created_on>
         <sys_id>1d9aa7b4db7e1110f359c19115961901</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_crisis_organization_capability</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_security_acl_1d9aa7b4db7e1110f359c19115961901</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-10-25 09:47:14</sys_updated_on>

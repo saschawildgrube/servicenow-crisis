@@ -24,7 +24,7 @@
     </sys_security_acl>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <application display_value="Crisis">d659aacfdbafc114bcced03cd396198b</application>
         <file_path/>
         <instance_id>25322e70dbb92590c1a4c5970596192e</instance_id>
         <instance_name>wildgrubeutah</instance_name>
@@ -57,10 +57,10 @@
         <sys_metadata>14ee35231b98ce100e0b2f836b4bcb8c</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_crisis_m2m_user_company.description</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
-        <sys_parent display_value="Description">fe3c3d6f1b58ce100e0b2f836b4bcb35</sys_parent>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent display_value="">fe3c3d6f1b58ce100e0b2f836b4bcb35</sys_parent>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
         <sys_update_name>sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c</sys_update_name>
         <sys_update_version display_value="sys_security_acl_14ee35231b98ce100e0b2f836b4bcb8c">d9fe75231b98ce100e0b2f836b4bcb42</sys_update_version>

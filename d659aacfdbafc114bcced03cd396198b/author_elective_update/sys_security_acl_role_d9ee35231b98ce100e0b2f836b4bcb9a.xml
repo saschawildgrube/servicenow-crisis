@@ -17,7 +17,7 @@
     </sys_security_acl_role>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <application display_value="Crisis">d659aacfdbafc114bcced03cd396198b</application>
         <file_path/>
         <instance_id>25322e70dbb92590c1a4c5970596192e</instance_id>
         <instance_name>wildgrubeutah</instance_name>
@@ -41,7 +41,7 @@
         <update_guid_history>ddfe75238998ce102455d2e1a3014a3d:-589112913</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value=".x_snc_crisis.manager">e9e082e31b98ce100e0b2f836b4bcb43</sys_audit_delete>
+        <sys_audit_delete display_value="">e9e082e31b98ce100e0b2f836b4bcb43</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-17 21:05:16</sys_created_on>
@@ -50,10 +50,10 @@
         <sys_metadata>d9ee35231b98ce100e0b2f836b4bcb9a</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.x_snc_crisis.manager</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_parent/>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_d9ee35231b98ce100e0b2f836b4bcb9a</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_d9ee35231b98ce100e0b2f836b4bcb9a">d9fe75231b98ce100e0b2f836b4bcb3e</sys_update_version>

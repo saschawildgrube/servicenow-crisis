@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Organization Classification" max_length="40" name="x_snc_crisis_organization_classification" type="collection">
+    <element db_object_id="db1bec511b467150063ddc61ab4bcb7d" label="Organization Classification" max_length="40" name="x_snc_crisis_organization_classification" type="collection">
         <element choice="3" default="red" label="Color" max_length="40" name="color" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Red" sequence="1" value="red"/>

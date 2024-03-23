@@ -36,7 +36,7 @@
 	<ul>
 		<g2:no_escape>$[
 			docapi.RenderSystemRequirements(
-				'Utah,Vancouver',
+				'Vancouver,Washington',
 				true,
 				AppGetDependencies());
 		]</g2:no_escape>	
@@ -108,7 +108,9 @@
 	
 	<h3>1.5.0 - 2024-TODO</h3>
 	<ol>
-		<li>TODO: document changes here</li>
+		<li>Utah is no longer actively supported.</li>
+		<li>Crisis is fully tested on Washington.</li>
+		<li>When selecting a company / organization the "Registration Code" can be used in the selection pop-up.</li>
 	</ol>	
 	
 	<h3>1.4.0 - 2024-02-25</h3>
@@ -150,13 +152,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>1c2b2287dbefc114bcced03cd3961968</sys_id>
-        <sys_mod_count>41</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_name>manual</sys_name>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_ui_page_1c2b2287dbefc114bcced03cd3961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-25 10:21:24</sys_updated_on>
+        <sys_updated_on>2024-03-23 17:38:53</sys_updated_on>
     </sys_ui_page>
 </record_update>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_map_page">
+    <cmn_map_page action="DELETE">
+        <center_address>Yogododji, Africa</center_address>
+        <center_latitude>14.883333</center_latitude>
+        <center_longitude>-1.766667</center_longitude>
+        <controls_size>large</controls_size>
+        <coordinates_retrieved_on/>
+        <disable_map_controls/>
+        <disable_nav_bar>false</disable_nav_bar>
+        <filter/>
+        <initial_zoom>2</initial_zoom>
+        <name>x_snc_crisis_map</name>
+        <overview>false</overview>
+        <refresh_on_zoom>false</refresh_on_zoom>
+        <roles/>
+        <script/>
+        <show_device_location>true</show_device_location>
+        <suffix>map</suffix>
+        <sys_class_name>cmn_map_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 15:55:58</sys_created_on>
+        <sys_id>7f50ba03db230514bcced03cd3961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_map</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>cmn_map_page_7f50ba03db230514bcced03cd3961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 15:55:58</sys_updated_on>
+        <type>satellite</type>
+        <type_selection>buttons</type_selection>
+        <use_advanced_configuration>false</use_advanced_configuration>
+    </cmn_map_page>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>bbdfc83f1ba93910699443f4bd4bcbe7</instance_id>
+        <instance_name>wildvancouver</instance_name>
+        <name>cmn_map_page_7f50ba03db230514bcced03cd3961910</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_map_page">
+    <cmn_map_page action="INSERT_OR_UPDATE">
+        <center_address>Yogododji, Africa</center_address>
+        <center_latitude>14.883333</center_latitude>
+        <center_longitude>-1.766667</center_longitude>
+        <controls_size>large</controls_size>
+        <coordinates_retrieved_on/>
+        <disable_map_controls/>
+        <disable_nav_bar>false</disable_nav_bar>
+        <filter/>
+        <initial_zoom>2</initial_zoom>
+        <name>x_snc_crisis_map</name>
+        <overview>false</overview>
+        <refresh_on_zoom>false</refresh_on_zoom>
+        <roles/>
+        <script/>
+        <show_device_location>true</show_device_location>
+        <suffix>map</suffix>
+        <sys_class_name>cmn_map_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 15:55:58</sys_created_on>
+        <sys_id>7f50ba03db230514bcced03cd3961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_map</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>cmn_map_page_7f50ba03db230514bcced03cd3961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 15:55:58</sys_updated_on>
+        <type>satellite</type>
+        <type_selection>buttons</type_selection>
+        <use_advanced_configuration>false</use_advanced_configuration>
+    </cmn_map_page>
+</record_update>]]></payload>
+        <payload_hash>-1791820918</payload_hash>
+        <record_name>x_snc_crisis_map</record_name>
+        <reverted_from/>
+        <source>7e1bec511b467150063ddc61ab4bcb63</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-21 18:43:19</sys_created_on>
+        <sys_id>b93ba4911b467150063ddc61ab4bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b538c84370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-21 18:43:19</sys_updated_on>
+        <type>Map Page</type>
+        <update_guid>793ba4915c467150c9a2a707df8807d1</update_guid>
+        <update_guid_history>793ba4915c467150c9a2a707df8807d1:-1791820918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_crisis_map">67ac186e1b2e8650063ddc61ab4bcbae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 07:34:46</sys_created_on>
+        <sys_db_object display_value="" name="cmn_map_page">cmn_map_page</sys_db_object>
+        <sys_id>0305a4b856be41e79edaf66425d30469</sys_id>
+        <sys_metadata>7f50ba03db230514bcced03cd3961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_map</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>cmn_map_page_7f50ba03db230514bcced03cd3961910</sys_update_name>
+        <sys_update_version display_value="cmn_map_page_7f50ba03db230514bcced03cd3961910">b93ba4911b467150063ddc61ab4bcbd1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 07:34:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

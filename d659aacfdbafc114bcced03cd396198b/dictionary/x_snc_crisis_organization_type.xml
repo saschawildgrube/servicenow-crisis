@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="bf1b20911b467150063ddc61ab4bcb19" label="Organization Type" max_length="40" name="x_snc_crisis_organization_type" type="collection">
-        <element attributes="no_truncate=true" label="Default Capabilities" max_length="4000" name="default_capabilities" reference="x_snc_crisis_organization_capability" type="glide_list"/>
+    <element db_object_id="d24c3536c3090e505a37f90705013164" label="Organization Type" max_length="40" name="x_snc_crisis_organization_type" type="collection">
         <element label="ID" mandatory="true" max_length="20" name="id" type="string"/>
         <element label="Name" mandatory="true" max_length="40" name="name" type="translated_text"/>
+        <element attributes="no_truncate=true" label="Default Capabilities" max_length="4000" name="default_capabilities" reference="x_snc_crisis_organization_capability" type="glide_list"/>
     </element>
 </database>

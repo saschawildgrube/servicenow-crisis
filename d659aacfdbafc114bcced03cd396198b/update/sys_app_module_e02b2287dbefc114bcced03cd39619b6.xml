@@ -5,7 +5,7 @@
         <assessment/>
         <device_type/>
         <filter table="syslog_app_scope">sys_created_onONLast 30 minutes@javascript:gs.beginningOfLast30Minutes()@javascript:gs.endOfLast30Minutes()^sys_scope=d659aacfdbafc114bcced03cd396198b^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Last 30 minutes@javascript:gs.beginningOfLast30Minutes()@javascript:gs.endOfLast30Minutes()"/>
-            <item display_table="sys_scope" display_value="Crisis WORK IN PROGRESS" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="d659aacfdbafc114bcced03cd396198b"/>
+            <item display_table="sys_scope" display_value="Crisis" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="d659aacfdbafc114bcced03cd396198b"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
@@ -20,6 +20,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query>&amp;sysparm_view_forced=true&amp;sysparm_order=sequence&amp;sysparm_order_direction=desc</query>
         <report/>
+        <require_confirmation>false</require_confirmation>
         <roles>x_snc_crisis.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -30,9 +31,9 @@
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Log</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_app_module_e02b2287dbefc114bcced03cd39619b6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-10-21 17:55:20</sys_updated_on>

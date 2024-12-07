@@ -16,9 +16,9 @@
         <sys_id>333eb5e41b5ca5905b76777d8b4bcb49</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>sys_user</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_security_acl_333eb5e41b5ca5905b76777d8b4bcb49</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-01-06 21:22:27</sys_updated_on>

@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_snc_crisis_organization_type</name>
+        <name>x_snc_crisis_m2m_user_company</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-10-26 11:47:29</sys_created_on>
-        <sys_id>acbf85951b7ed1105b76777d8b4bcbfd</sys_id>
+        <sys_created_on>2024-03-01 19:40:28</sys_created_on>
+        <sys_id>c64c3536c3090e505a37f9070501310b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_crisis_organization_type</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_name>x_snc_crisis_m2m_user_company</sys_name>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
-        <sys_update_name>ua_table_licensing_config_acbf85951b7ed1105b76777d8b4bcbfd</sys_update_name>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c64c3536c3090e505a37f9070501310b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-26 11:47:29</sys_updated_on>
+        <sys_updated_on>2024-03-01 19:40:28</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

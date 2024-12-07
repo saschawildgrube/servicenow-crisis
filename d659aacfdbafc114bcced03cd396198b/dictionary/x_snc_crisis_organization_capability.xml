@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="671bec511b467150063ddc61ab4bcbf0" label="Organization Capability" max_length="40" name="x_snc_crisis_organization_capability" type="collection">
+    <element db_object_id="b54cf136c3090e505a37f907050131c4" label="Organization Capability" max_length="40" name="x_snc_crisis_organization_capability" type="collection">
         <element label="id" mandatory="true" max_length="20" name="id" type="string"/>
         <element display="true" label="Name" mandatory="true" max_length="80" name="name" type="translated_text"/>
     </element>

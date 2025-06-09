@@ -38,14 +38,10 @@
 	
 	if (GetStringValue(current.crisis) == '')
 	{
-		var grCrisis = new GlideRecord('x_snc_crisis_crisis');
-		grCrisis.query();
-		if (grCrisis.getRowCount() == 1)
+		var grCrisis = GetDefaultCrisis();
+		if (grCrisis != false)
 		{
-			if (grCrisis.next())
-			{
-				current.crisis = grCrisis.sys_id;
-			}
+			current.crisis = grCrisis.sys_id;
 		}
 	}
 
@@ -56,7 +52,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>aea18ed8dbcc9110b652edb305961948</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Crisis Task - Set defaults</sys_name>
         <sys_overrides/>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
@@ -64,10 +60,21 @@
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_script_aea18ed8dbcc9110b652edb305961948</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-25 10:45:08</sys_updated_on>
+        <sys_updated_on>2025-06-09 14:11:40</sys_updated_on>
         <template/>
         <when>before_display</when>
         <x_snc_datasilos_created>false</x_snc_datasilos_created>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=aea18ed8dbcc9110b652edb305961948"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>aea18ed8dbcc9110b652edb305961948</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 14:11:39</sys_created_on>
+        <sys_id>cb2a421d93c62210ae97b4aa6aba1084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 14:11:39</sys_updated_on>
+        <table>sys_script</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>

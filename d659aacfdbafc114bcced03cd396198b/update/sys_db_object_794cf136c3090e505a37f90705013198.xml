@@ -24,9 +24,9 @@
         <sys_id>794cf136c3090e505a37f90705013198</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Organization Classification</sys_name>
-        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_db_object_794cf136c3090e505a37f90705013198</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-09 18:39:16</sys_updated_on>

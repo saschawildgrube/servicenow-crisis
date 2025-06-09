@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e9466c0b8320021000d5ccc0deaad3c6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-12 12:09:39</sys_created_on>
+        <sys_id>5b8cfce1db4095109232dad1f39619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_wizard_answer_5b8cfce1db4095109232dad1f39619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-12 12:09:39</sys_updated_on>
+        <table/>
+        <target_url>x_snc_crisis_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>220092723b73421816e44a8aa4e45ab1</instance_id>
+        <instance_name>wildxanadu</instance_name>
+        <name>sys_wizard_answer_5b8cfce1db4095109232dad1f39619f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e9466c0b8320021000d5ccc0deaad3c6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-12 12:09:39</sys_created_on>
+        <sys_id>5b8cfce1db4095109232dad1f39619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_update_name>sys_wizard_answer_5b8cfce1db4095109232dad1f39619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-12 12:09:39</sys_updated_on>
+        <table/>
+        <target_url>x_snc_crisis_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>]]></payload>
+        <payload_hash>1502874956</payload_hash>
+        <record_name>Task</record_name>
+        <reverted_from/>
+        <source>029601db933fd290959b7fda2bba10e9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-02-23 18:03:11</sys_created_on>
+        <sys_id>95a609db933fd290959b7fda2bba109b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19533fa3a780000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-02-23 18:03:11</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>51a609db583fd2906120a338752aec9b</update_guid>
+        <update_guid_history>51a609db583fd2906120a338752aec9b:0,6b1258da099a1210fb85682b6356872a:-253951213</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 14:47:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0c0ef6385ef445448fb213e3d9691af9</sys_id>
+        <sys_metadata>5b8cfce1db4095109232dad1f39619f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent display_value="Task">17e6835bd12302104f34ba60d8b7c1f4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_5b8cfce1db4095109232dad1f39619f8</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_5b8cfce1db4095109232dad1f39619f8">95a609db933fd290959b7fda2bba109b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 14:47:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

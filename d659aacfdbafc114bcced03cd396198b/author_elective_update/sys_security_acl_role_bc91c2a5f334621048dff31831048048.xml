@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>@@snc_write_audit@@</sys_created_by>
+        <sys_created_on>2025-05-10 04:32:04</sys_created_on>
+        <sys_id>bc91c2a5f334621048dff31831048048</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_crisis_organization_classification.*.public</sys_name>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_security_acl display_value="x_snc_crisis_organization_classification.*">bc91c2a5f334621048dff3d260836132</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bc91c2a5f334621048dff31831048048</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 14:47:21</sys_updated_on>
+        <sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Crisis">d659aacfdbafc114bcced03cd396198b</application>
+        <file_path/>
+        <instance_id>220092723b73421816e44a8aa4e45ab1</instance_id>
+        <instance_name>wildxanadu</instance_name>
+        <name>sys_security_acl_role_bc91c2a5f334621048dff31831048048</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>@@snc_write_audit@@</sys_created_by><sys_created_on>2025-05-10 04:32:04</sys_created_on><sys_id>bc91c2a5f334621048dff31831048048</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_snc_crisis_organization_classification.*.public</sys_name><sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package><sys_policy/><sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope><sys_security_acl display_value="x_snc_crisis_organization_classification.*">bc91c2a5f334621048dff3d260836132</sys_security_acl><sys_update_name>sys_security_acl_role_bc91c2a5f334621048dff31831048048</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-09 14:47:21</sys_updated_on><sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1512150022</payload_hash>
+        <record_name>x_snc_crisis_organization_classification.*.public</record_name>
+        <reverted_from/>
+        <source>4513149e939a1210ae97b4aa6aba10f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 14:47:21</sys_created_on>
+        <sys_id>06529299930a2210ae97b4aa6aba1041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197552907d50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 14:47:21</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>8a529299010a2210390311964206f540</update_guid>
+        <update_guid_history>8a529299010a2210390311964206f540:-1512150022,0e529299c50a22108dbfac065a63e03e:-1001565242</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_crisis_organization_classification.*.public">3a52d299930a2210ae97b4aa6aba1068</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 14:47:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>02c0b02647994f50804c8343c99e2b90</sys_id>
+        <sys_metadata>bc91c2a5f334621048dff31831048048</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_crisis_organization_classification.*.public</sys_name>
+        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope_delete display_value="">0847c82d412d4493aea331384fd248d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_bc91c2a5f334621048dff31831048048</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_bc91c2a5f334621048dff31831048048">06529299930a2210ae97b4aa6aba1041</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 14:47:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

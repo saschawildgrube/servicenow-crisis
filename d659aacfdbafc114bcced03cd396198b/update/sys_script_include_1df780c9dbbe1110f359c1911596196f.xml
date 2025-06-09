@@ -6,7 +6,9 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Checks if the given string is a valid organization capability id.</description>
+        <mobile_callable>false</mobile_callable>
         <name>IsValidOrganizationCapabilityID</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[function IsValidOrganizationCapabilityID(strID)
 {
 	var IsSnakeCase = x_snc_devtools.IsSnakeCase;

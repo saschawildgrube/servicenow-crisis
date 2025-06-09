@@ -6,7 +6,9 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Displays the classification information to the user when loading a form.</description>
+        <mobile_callable>false</mobile_callable>
         <name>DisplayClassificationInfo</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[function DisplayClassificationInfo(classification)
 {
 	var IsObject = x_snc_devtools.IsObject;

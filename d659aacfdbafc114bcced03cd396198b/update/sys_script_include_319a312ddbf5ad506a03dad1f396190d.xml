@@ -7,7 +7,9 @@
         <client_callable>false</client_callable>
         <description>Returns an object containing the color id ('red', 'yellow' or 'blue') and an information text for the given record based on its organization classification.&#13;
 Currently, only records in core_company are supported.</description>
+        <mobile_callable>false</mobile_callable>
         <name>GetClassificationInfoFromRecord</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[function GetClassificationInfoFromRecord(grRecord)
 {
 	var IsValidRecord = x_snc_devtools.IsValidRecord;

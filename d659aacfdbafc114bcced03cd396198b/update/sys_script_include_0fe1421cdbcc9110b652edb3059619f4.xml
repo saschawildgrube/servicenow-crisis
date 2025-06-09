@@ -6,7 +6,9 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Returns the numeric value of the given text state id.</description>
+        <mobile_callable>false</mobile_callable>
         <name>GetCrisisTaskState</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[function GetCrisisTaskState(strState)
 {
 	return x_snc_devtools.GetValue(GetCrisisTaskStates(),strState);

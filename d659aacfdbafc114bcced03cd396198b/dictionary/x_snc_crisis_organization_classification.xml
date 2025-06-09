@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="794cf136c3090e505a37f90705013198" label="Organization Classification" max_length="40" name="x_snc_crisis_organization_classification" type="collection">
-        <element label="Description" max_length="2000" name="description" type="translated_text"/>
         <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="translated_text"/>
         <element choice="3" default="red" label="Color" max_length="40" name="color" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Yellow" sequence="2" value="yellow"/>
                 <element inactive_on_update="false" label="Red" sequence="1" value="red"/>
                 <element inactive_on_update="false" label="Blue" sequence="3" value="blue"/>
+                <element inactive_on_update="false" label="Yellow" sequence="2" value="yellow"/>
             </choice>
         </element>
+        <element label="Description" max_length="2000" name="description" type="translated_text"/>
     </element>
 </database>

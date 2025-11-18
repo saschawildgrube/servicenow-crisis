@@ -5,6 +5,7 @@
         <advanced>false</advanced>
         <applies_to/>
         <condition/>
+        <controlled_by_refs/>
         <decision_type>allow</decision_type>
         <description>Allow read for work_notes in x_snc_crisis_task, for users with role x_snc_crisis.viewer.</description>
         <local_or_existing/>

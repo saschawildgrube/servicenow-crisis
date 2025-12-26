@@ -22,7 +22,7 @@
 
 	<h2>Table of Contents</h2>
 	<g2:no_escape>$[x_snc_devtools.HtmlRenderTableOfContents()]</g2:no_escape>		
-	
+
 	<h2>Features</h2> 
 	<ul>
 		<li>The Crisis app supports Crisis tasks - which can be any task related to a Crisis response.</li>
@@ -77,6 +77,9 @@
 	<h3>Roles</h3>
 	<g2:no_escape>$[docapi.RenderRoles()]</g2:no_escape>		
 
+	<h3>Tables</h3>
+	<g2:no_escape>$[docapi.RenderTables()]</g2:no_escape>	
+
 	<!--
 	<h3>UI Actions</h3>
 	<g2:no_escape>$[docapi.RenderUIActions()]</g2:no_escape>		
@@ -84,6 +87,12 @@
 	<h3>Script Includes</h3>
 	<g2:no_escape>$[docapi.RenderScriptIncludes()]</g2:no_escape>
 	
+	<h2>Dependencies</h2>
+	<g2:no_escape>$[docapi.RenderDependencies()]</g2:no_escape>		
+
+	<h2>Technical Debt</h2>
+	<g2:no_escape>$[docapi.RenderTechnicalDebt()]</g2:no_escape>	
+
 	<h2>License</h2>
 	<g2:no_escape>$[docapi.RenderCopyright(2023,'Sascha Wildgrube')]</g2:no_escape>
 	<g2:no_escape>$[docapi.RenderLicense()]</g2:no_escape>
@@ -167,14 +176,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-23 15:32:16</sys_created_on>
         <sys_id>1c2b2287dbefc114bcced03cd3961968</sys_id>
-        <sys_mod_count>61</sys_mod_count>
+        <sys_mod_count>64</sys_mod_count>
         <sys_name>manual</sys_name>
         <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_ui_page_1c2b2287dbefc114bcced03cd3961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-12-26 18:42:54</sys_updated_on>
+        <sys_updated_on>2025-12-26 18:45:57</sys_updated_on>
     </sys_ui_page>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>1c2b2287dbefc114bcced03cd3961968</id>

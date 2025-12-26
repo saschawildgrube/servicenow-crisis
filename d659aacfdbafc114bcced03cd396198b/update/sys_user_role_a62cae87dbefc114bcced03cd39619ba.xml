@@ -16,9 +16,9 @@ A crisis manager can also add and edit users - but cannot assign roles or groups
         <sys_id>a62cae87dbefc114bcced03cd39619ba</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>x_snc_crisis.manager</sys_name>
-        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_update_name>sys_user_role_a62cae87dbefc114bcced03cd39619ba</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-01-06 20:56:06</sys_updated_on>

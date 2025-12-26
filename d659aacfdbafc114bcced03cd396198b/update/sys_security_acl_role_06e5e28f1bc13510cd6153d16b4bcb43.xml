@@ -6,9 +6,9 @@
         <sys_id>06e5e28f1bc13510cd6153d16b4bcb43</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.x_snc_crisis.manager</sys_name>
-        <sys_package display_value="Crisis" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
+        <sys_package display_value="Crisis WORK IN PROGRESS" source="x_snc_crisis">d659aacfdbafc114bcced03cd396198b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Crisis">d659aacfdbafc114bcced03cd396198b</sys_scope>
+        <sys_scope display_value="Crisis WORK IN PROGRESS">d659aacfdbafc114bcced03cd396198b</sys_scope>
         <sys_security_acl display_value="sys_user.email">8ee5e28f1bc13510cd6153d16b4bcb42</sys_security_acl>
         <sys_update_name>sys_security_acl_role_06e5e28f1bc13510cd6153d16b4bcb43</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

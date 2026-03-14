@@ -5,6 +5,7 @@
         <description>A user that can read and write data related to the Crisis app.&#13;
 A crisis manager can also add and edit users - but cannot assign roles or groups.</description>
         <elevated_privilege>false</elevated_privilege>
+        <federated_id>+eyANTtQXgcRGCLMhuDCICPMSgI/7w0Zax7VhwzDZqI=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_crisis.manager</name>

@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>A user who can see data related to the Crisis app. </description>
         <elevated_privilege>false</elevated_privilege>
+        <federated_id>HN2VTkncdcD1Iz43R53mS9J29ErWxfGmvtuL+gG6l/s=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_crisis.viewer</name>

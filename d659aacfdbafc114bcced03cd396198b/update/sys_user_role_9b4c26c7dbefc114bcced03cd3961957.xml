@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>A user with admin access to the Crisis app.</description>
         <elevated_privilege>false</elevated_privilege>
+        <federated_id>PrvdNHw8ijiQNr6P34qtrgaQGDwAwSBl5fXPOWpMH30=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_crisis.admin</name>

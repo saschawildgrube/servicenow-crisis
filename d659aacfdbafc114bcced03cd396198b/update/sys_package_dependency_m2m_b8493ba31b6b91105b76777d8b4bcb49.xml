@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="System (apps/system_user)" source="apps/system_user">3aa3bb30e11312105590bd68cbbecbd0</dependency>
+        <dependency display_value="System (apps/system_user)" source="apps/system_user">bb86c902c32103104b4f311f05013156</dependency>
         <min_version/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-10 06:41:45</sys_created_on>
